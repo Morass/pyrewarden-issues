@@ -1,0 +1,17 @@
+name: 💬 Question / Discussion
+description: Gameplay, balance, or general question
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context (optional)
+      description: What were you doing / trying to figure out when this came up?
