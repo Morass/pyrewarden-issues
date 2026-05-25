@@ -1,49 +1,17 @@
 name: ✨ Feature Request
-description: Suggest a new mechanic, tower, synergy, map, or QoL change
+description: Suggest anything you'd like to see in the game
 title: "[Feature] "
 labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for the suggestion! Please describe the *what* and the *why* — what should the game do, and why does it matter.
-
-  - type: dropdown
-    id: area
-    attributes:
-      label: Area
-      options:
-        - New tower / school
-        - New synergy
-        - New map
-        - New enemy
-        - Balance change
-        - UI / UX
-        - Multiplayer
-        - Accessibility
-        - Performance
-        - Other
-    validations:
-      required: true
+        Thanks for the suggestion! Title goes at the top of the issue; describe what you'd like below.
 
   - type: textarea
-    id: what
+    id: description
     attributes:
-      label: What would you like to see?
-      placeholder: "A Time + Beasts synergy that slows the enemy during a tower's first attack."
+      label: Description
+      description: What would you like to see? Feel free to include the *why* if it helps explain.
     validations:
       required: true
-
-  - type: textarea
-    id: why
-    attributes:
-      label: Why does it matter?
-      description: What problem does this solve, or what experience does it enable?
-      placeholder: "Time + Beasts currently lacks a defining combo and feels weaker than other school pairings."
-    validations:
-      required: true
-
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: Alternatives you've considered (optional)
