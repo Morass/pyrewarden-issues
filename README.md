@@ -8,7 +8,6 @@ The game's source code lives in a private repository. This repo exists only so a
 Click **[Issues → New Issue](../../issues/new/choose)** and pick a template:
 - 🐛 **Bug report** — something is broken
 - ✨ **Feature request** — propose a new mechanic, tower, synergy, or QoL change
-- 💬 **Question** — gameplay, balance, or general discussion
 
 ## Before filing
 1. **Search existing issues** — your report may already exist; upvote (👍 reaction) instead of duplicating.
@@ -17,5 +16,5 @@ Click **[Issues → New Issue](../../issues/new/choose)** and pick a template:
 
 ## Useful links
 - 🎮 [Game site](https://morass.github.io/pyrewarden/)
-- 🛒 Steam store page (coming soon)
-- 💬 Discord (coming soon)
+- 🛒 [Steam store page](https://store.steampowered.com/app/4774690/Pyrewarden/)
+- 💬 [Discord](https://discord.gg/KTKarn46yq)
