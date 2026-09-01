@@ -1,20 +1,25 @@
-# Pyrewarden — Bug Reports &amp; Feature Requests
+# Pyrewarden — this tracker has moved
 
-Public issue tracker for [**Pyrewarden**](https://morass.github.io/pyrewarden/) — a fantasy tower defense built around emergent synergy.
+Bug reports and feature requests for **Pyrewarden** now live on the shared tracker for
+every Morass game:
 
-The game's source code lives in a private repository. This repo exists only so anyone can file bug reports and feature requests without needing source access.
+### → [**github.com/Morass/morass-issues**](https://github.com/Morass/morass-issues/issues/new/choose)
 
-## File a report
-Click **[Issues → New Issue](../../issues/new/choose)** and pick a template:
-- 🐛 **Bug report** — something is broken
-- ✨ **Feature request** — propose a new mechanic, tower, synergy, or QoL change
+- 🐛 [Report a bug in Pyrewarden](https://github.com/Morass/morass-issues/issues/new?template=bug_report.yml&game=Pyrewarden)
+- ✨ [Suggest a feature for Pyrewarden](https://github.com/Morass/morass-issues/issues/new?template=feature_request.yml&game=Pyrewarden)
+- 📋 [Everything already filed for Pyrewarden](https://github.com/Morass/morass-issues/issues?q=is%3Aissue+label%3A%22game%3A+Pyrewarden%22)
 
-## Before filing
-1. **Search existing issues** — your report may already exist; upvote (👍 reaction) instead of duplicating.
-2. **Include game version** — visible in the bottom-right of the main menu.
-3. **Include reproduction steps** — what you did, what you expected, what happened.
+## Why
+
+Four games had three separate issue repos between them, and a reporter had no way to
+know which one their game lived in. The shared tracker asks *which game* as the first
+question on the form instead. Links like the ones above prefill that answer.
+
+This repo is kept rather than deleted because links to it are already printed in
+places we do not control. Nothing was lost in the move: it had never received an issue.
 
 ## Useful links
-- 🎮 [Game site](https://morass.github.io/pyrewarden/)
-- 🛒 [Steam store page](https://store.steampowered.com/app/4774690/Pyrewarden/)
+
+- 🎮 [Pyrewarden](https://morass.github.io/pyrewarden/)
+- 🎮 [Morass Games](https://morass.github.io/)
 - 💬 [Discord](https://discord.gg/KTKarn46yq)

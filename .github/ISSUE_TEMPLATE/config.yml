@@ -1,11 +1,18 @@
+# This tracker has moved. The forms are gone on purpose: with no template left,
+# GitHub shows this chooser instead, and every route off it lands on the unified
+# tracker with Pyrewarden already selected. Old links keep working — they just
+# arrive one click short.
 blank_issues_enabled: false
 contact_links:
-  - name: 🎮 Pyrewarden website
-    url: https://morass.github.io/pyrewarden/
-    about: Game info, trailer, screenshots
-  - name: 🛒 Pyrewarden on Steam
-    url: https://store.steampowered.com/app/4774690/Pyrewarden/
-    about: Store page, reviews, discussions
+  - name: 🐛 Report a bug in Pyrewarden
+    url: https://github.com/Morass/morass-issues/issues/new?template=bug_report.yml&game=Pyrewarden
+    about: This tracker has moved — file it on the shared Morass Games tracker
+  - name: ✨ Suggest a feature for Pyrewarden
+    url: https://github.com/Morass/morass-issues/issues/new?template=feature_request.yml&game=Pyrewarden
+    about: This tracker has moved — file it on the shared Morass Games tracker
+  - name: 📋 All Pyrewarden reports
+    url: https://github.com/Morass/morass-issues/issues?q=is%3Aissue+label%3A%22game%3A+Pyrewarden%22
+    about: Browse what is already filed
   - name: 💬 Discord
     url: https://discord.gg/KTKarn46yq
     about: Ask a question or chat with the community
