@@ -15,8 +15,9 @@ Four games had three separate issue repos between them, and a reporter had no wa
 know which one their game lived in. The shared tracker asks *which game* as the first
 question on the form instead. Links like the ones above prefill that answer.
 
-This repo is kept rather than deleted because links to it are already printed in
-places we do not control. Nothing was lost in the move: it had never received an issue.
+This repo is kept and left open rather than archived, so that bookmarks, search
+results and old chat links land on a redirect instead of a disabled button. Nothing
+was lost in the move: it had never received an issue.
 
 ## Useful links
 
